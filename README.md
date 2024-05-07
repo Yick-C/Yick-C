@@ -6,6 +6,7 @@ Technology really excites me as it is always changing to improve our futures and
 - 🔭 I’m currently working on developing a dashboard using next.js
 - 🌱 I’m currently learning data structures and algorithms
 - 😄 Pronouns: she/her
+- 💜 Hobbies: Dancing, gaming and learning languages
 
   
 ### Languages and Tools
