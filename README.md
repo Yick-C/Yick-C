@@ -3,7 +3,7 @@ I am software developer. I am deeply passionate about creating innovative soluti
 
 Technology really excites me as it is always changing to improve our futures and how you can utilise your creativity to bring your ideas to life. As someone who really enjoys seeing and learning new things, this is the perfect area to satisfy my big curiosity with all the interesting new technologies while also being able to help people with my work.
 
-- 🔭 I’m currently working on developing a dashboard using next.js
+- 🔭 I’m currently creating conversation agents using LangChain and Azure AI Foundry
 - 🌱 I’m currently learning data structures and algorithms
 - 😄 Pronouns: she/her
 - 💜 Hobbies: Dancing, gaming and learning languages
